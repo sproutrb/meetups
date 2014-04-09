@@ -23,7 +23,7 @@ Ruby on Railsを仲間と一緒に学びたい人のための勉強会(読書会
 
 ## 勉強会でやること
 
-* 「「Ruby on Rails チュートリアル」を読み進めながらワーク
+* 「Ruby on Rails チュートリアル」を読み進めながらワーク  
 　http://railstutorial.jp/
 
 * 必要に応じて、Gitの勉強なども
