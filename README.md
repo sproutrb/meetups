@@ -69,7 +69,7 @@ Ruby on Railsを仲間と一緒に学びたい人のための勉強会(読書会
 
 * 第２回以降の初参加者については個別に相談。
 
-* nitrous.io も使用してます。
+* nitrous.io も使用してます。  
 　https://www.nitrous.io/
 
 
