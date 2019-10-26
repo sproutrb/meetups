@@ -50,10 +50,10 @@ Ruby on Railsを仲間と一緒に学びたい人のための勉強会(読書会
 　　１３：００　～　１７：００  
 
 
-## 参加募集
+## 参加申し込み
 
-* Doorkeeperから申し込み
-
+* connpassから申し込み
+  https://sproutrb.connpass.com
 
 ## PC環境について
 
