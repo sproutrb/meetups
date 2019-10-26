@@ -64,8 +64,3 @@ Ruby on Railsを仲間と一緒に学びたい人のための勉強会(読書会
 * インストーラーを使用して環境設定するならこちら  
   http://railsinstaller.org/en  
   例）Windowsの場合なら、緑色のボタン(Windows RUBY 2.1)をクリック  
-
-* nitrous.io の使用者も多いです 
-  https://www.nitrous.io/
-
-
